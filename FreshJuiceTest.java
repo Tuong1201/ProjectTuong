@@ -17,5 +17,6 @@ public class FreshJuiceTest {
         juice.size = FreshJuice.FreshJuiceSize.MEDIUM;
         System.out.println("Size: " + juice.size);
         System.out.println("Kết thúc bài tập");
+        System.out.println("ik");
     }
 }
