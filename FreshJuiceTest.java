@@ -12,6 +12,7 @@ class FreshJuice {
 public class FreshJuiceTest {
 
     public static void main(String args[]) {
+        System.out.println("Hello mấy cưng");
         FreshJuice juice = new FreshJuice();
         juice.size = FreshJuice.FreshJuiceSize.MEDIUM;
         System.out.println("Size: " + juice.size);
